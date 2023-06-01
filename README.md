@@ -8,7 +8,7 @@ My name is Faizal Ramadhan Sundara, this is my profile for the repository as a p
   <br>
   - 📫 How to reach me: 
     <div>
-        • <a href="https://www.linkedin.com/in/faizalramadhansundara24/">
+      <a href="https://www.linkedin.com/in/faizalramadhansundara24/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
    </div>
